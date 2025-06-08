@@ -23,7 +23,7 @@
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/30/000000/gmail.png" alt="Email">](mailto:svadakaa@gmail.com)
 &nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge)](https://docs.google.com/document/d/1SJwgyhMnn11fRCdvoEPb31MynybPWAXh/edit)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge)](https://docs.google.com/document/d/1lx9ohidmUTnTVOOvzCo59xoKuxNLp_H_/edit)
 
 ---
 
