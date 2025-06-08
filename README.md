@@ -4,10 +4,10 @@
 ---
 
 🎓 MS in Computer Information Technology – Purdue University Northwest  
-📊 Skilled in Power BI, Python, SQL, Excel, Tableau, and Machine Learning  
-🧠 Passionate about using AI and data to solve real-world problems  
-👀 Creative problem-solver
-🌈 Focused on building human-first, AI-enhanced solutions  
+- Skilled in Power BI, Python, SQL, Excel, Tableau, and Machine Learning  
+- Passionate about using AI and data to solve real-world problems  
+- Creative problem-solver
+- Focused on building human-first, AI-enhanced solutions  
 
 ---
 
@@ -19,9 +19,10 @@
 ---
 
 ### 💼 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/svadaka)  
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:svadakaa@gmail.com)  
+[<img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn">](https://www.linkedin.com/in/svadaka)
+&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/30/000000/gmail.png" alt="Email">](mailto:svadakaa@gmail.com)
+&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge)](https://docs.google.com/document/d/1SJwgyhMnn11fRCdvoEPb31MynybPWAXh/edit)
 
 ---
