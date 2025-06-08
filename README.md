@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋 I'm Sharanya Vadakapur</h2>
+<p align="center">Data & Business Analyst | AI Enthusiast | Engineer </p>
 
-<!--
-**S0307-shar/S0307-shar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 MS in Computer Information Technology – Purdue University Northwest  
+📊 Skilled in Power BI, Python, SQL, Excel, Tableau, and Machine Learning  
+🧠 Passionate about using AI and data to solve real-world problems  
+👀 Creative problem-solver
+🌈 Focused on building human-first, AI-enhanced solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 I'm currently working on
+- AI-enhanced analytics to uncover hidden inflation trends in grocery pricing   
+- Actively job hunting & upskilling through certifications
+- Hackerrank Questions
+
+---
+
+### 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/svadaka)  
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:svadakaa@gmail.com)  
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge)](https://docs.google.com/document/d/1SJwgyhMnn11fRCdvoEPb31MynybPWAXh/edit)
+
+---
+
+✨ “AI is not here to replace humans. It’s here to amplify what we do best.”
+
