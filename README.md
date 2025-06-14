@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Sharanya Vadakapur</h2>
+<h2 align="center">Hi there 👋 I'm Sharanya V</h2>
 <p align="center">Data & Business Analyst | AI Enthusiast | Engineer </p>
 
 ---
