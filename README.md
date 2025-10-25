@@ -8,21 +8,21 @@ My work blends **engineering precision**, **data analytics**, and **product thin
 ---
 
 ### 💡 What I Do  
-- 🧠 Build **AI-powered** applications that enhance real-time decision-making  
-- ⚙️ Design **scalable frontends** and optimize system performance with Angular + Firebase  
-- 📊 Transform raw data into insights using **Python, Power BI, and ML pipelines**  
-- ☁️ Deploy secure, cloud-ready systems on **GCP, Azure, and Render**  
-- 🤝 Collaborate across design, data, and business teams to create products that matter  
+- Build **AI-powered** applications that enhance real-time decision-making  
+- Design **scalable frontends** and optimize system performance with Angular + Firebase  
+- Transform raw data into insights using **Python, Power BI, and ML pipelines**  
+- Deploy secure, cloud-ready systems on **GCP, Azure, and Render**  
+- Collaborate across design, data, and business teams to create products that matter  
 
 ---
 
 ### 🧑‍💻 Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🏨 **Workcuit AI** | AI-powered hospitality management platform improving workflow efficiency and guest experience | Angular, Firebase, Firestore, REST APIs |
-| 🎥 **AI CCTV Analyzer** | Converts hours of surveillance footage into searchable, machine-readable events | Python, OpenCV, Gemini 2.0 |
-| 💰 **Profit Prediction Model** | Predicts profitability trends with 97% accuracy using regression pipelines | PyCaret, Pandas, Scikit-learn |
-| ⚽ **Motion Detection in Sports** | Detects and analyzes real-time motion events to assist refereeing | TensorFlow, OpenCV, NumPy |
+| **Workcuit AI** | AI-powered hospitality management platform improving workflow efficiency and guest experience | Angular, Firebase, Firestore, REST APIs |
+| **AI CCTV Analyzer** | Converts hours of surveillance footage into searchable, machine-readable events | Python, OpenCV, Gemini 2.0 |
+| **Profit Prediction Model** | Predicts profitability trends with 97% accuracy using regression pipelines | PyCaret, Pandas, Scikit-learn |
+| **Motion Detection in Sports** | Detects and analyzes real-time motion events to assist refereeing | TensorFlow, OpenCV, NumPy |
 
 ---
 
@@ -36,7 +36,7 @@ My work blends **engineering precision**, **data analytics**, and **product thin
 ---
 
 ### 🎓 Education  
-🎓 *M.S. in Computer and Information Technology*  
+*M.S. in Computer and Information Technology*  
 **Purdue University Northwest (Dec 2024)** | GPA: 3.7 / 4.0  
 
 ---
